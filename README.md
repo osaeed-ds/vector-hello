@@ -15,3 +15,4 @@ I spun up a cloud AuraDB on Neo4j's website and ran the Neo4j example on the Lan
 
 ## pgVector
 I spun up a postgres DB on Digital Ocean, installed the pgVector extension, and ran the pgVector example from LangChain.  It was actually the same as the Redis example, so I just cloned my Redis notebook and substituted the postgres connection info.
+#### https://github.com/osaeed-ds/vector-hello/blob/main/Osaeed_pgVector.ipynb
